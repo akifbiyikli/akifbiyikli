@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akifbiyikli](https://github.com/akifbiyikli)
 
-- 📝 I regularly write articles on [https://medium.com](https://medium.com)
+- 📝 I regularly write articles on [https://medium.com](https://medium.com/@akifbiyikli)
 
 - 📫 How to reach me **akifbiyikli323@gmail.com**
 
