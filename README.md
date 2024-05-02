@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akif</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+<h3 align="center">A  data scientist </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/akifbiyikli](https://github.com/akifbiyikli)
 
